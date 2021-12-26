@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rob Byrne</h1>
 <h3 align="center">A full stack software developer living in beautiful Vancouver, BC 🇨🇦</h3>
 
-- 🔭 I’m currently working with JungleScout on [JungleScout Cobalt](https://www.junglescout.com/press/press-releases/jungle-scout-introduces-cobalt-to-help-enterprise-level-brands-win-on-amazon/)
+- 🔭 I’m currently working with Shopify with the Shopify Retail Team.
 
-- 🌱 I’m currently learning **GraphQL, UQRL, Next.js**
+- 🌱 I’m currently learning **DGraph**
 
 - 👯 I’m looking to collaborate on **all kinds of cool stuff**
 
 - 👨‍💻 All of my projects are available at [https://leanrob.com](https://leanrob.com)
 
-- 💬 Ask me about **react, rust, event-driven systems**
+- 💬 Ask me about **react, rust, event-driven systems, 🏌️**
 
 - 📫 How to reach me **rob@leanrob.com**
 
