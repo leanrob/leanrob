@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working with Shopify with the Shopify Retail Team.
 
-- 🌱 I’m currently learning **DGraph**
+- 🌱 I’m currently learning [**DGraph**](https://dgraph.io/)
 
-- 👯 I’m looking to collaborate on **all kinds of cool stuff**
+- 👯 I’m looking to collaborate on **exciting things that can create value**.
 
 - 👨‍💻 All of my projects are available at [https://leanrob.com](https://leanrob.com)
 
-- 💬 Ask me about **react, rust, event-driven systems, 🏌️**
+- 💬 Ask me about **react, rust, event-driven systems, 🏌️ Golf, **
 
 - 📫 How to reach me **rob@leanrob.com**
 
