@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rob Byrne</h1>
 <h3 align="center">A full stack software developer living in beautiful Vancouver, BC 🇨🇦</h3>
 
-- 🔭 I’m currently working with Shopify with the Shopify Retail Team.
+- 🔭 I’ve worked at companies of all sizes and shapes. Getty Images, Shopify, Junglescout, and more...
 
-- 🌱 I’m currently learning [**DGraph**](https://dgraph.io/)
+- 🌱 I’m currently learning more about advanced technical writing, project planning and technical leadership.
 
 - 👯 I’m looking to collaborate on **exciting things that can create value**.
 
