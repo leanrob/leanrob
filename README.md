@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rob Byrne</h1>
 <h3 align="center">A full stack software developer living in beautiful Vancouver, BC 🇨🇦</h3>
 
-- 🔭 I’ve worked at companies of all sizes and shapes. Getty Images, Shopify, Junglescout, and more...
+- 🔭 I’ve worked at companies of all sizes and shapes. Getty Images, Shopify, Arc'teryx, Junglescout, and more...
 
 - 🌱 I’m currently learning more about advanced technical writing, project planning and technical leadership.
 
